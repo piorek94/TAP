@@ -1,0 +1,6 @@
+*~
+
+#latex files
+dokumentacja_pid.log
+*.aux
+*.gz

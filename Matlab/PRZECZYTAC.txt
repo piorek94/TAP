@@ -1,0 +1,2 @@
+Po uruchomienia Matlaba 'Current Folder' (lewy panel) ustawic na folder Matlab, kliknac prawym przyciskiem myszy na folder 'Kod' i wybrac 'Add to path > Selected folders and subfolders', zrobic to samo dla folderu Modele.
+Wszystko powinno dzialac, a obrazki powinny byc zapisywane do folderu 'Dokumentacja/Obrazki'.
